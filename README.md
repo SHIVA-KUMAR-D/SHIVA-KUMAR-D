@@ -36,7 +36,7 @@ A basic calculator built with HTML, CSS, and JavaScript. Supports all core arith
 A game project using CSS animations and simple mechanics.
 
 ### 🔹 [localrepo](https://github.com/SHIVA-KUMAR-D/localrepo)
-A local project template or testing ground (you can add more details here).
+A local project template or testing ground
 
 ---
 
