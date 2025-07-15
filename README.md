@@ -32,10 +32,10 @@ An AI voice assistant using Google Gemini and Python. It can answer questions, f
 ### 🔹 [calculator-html-css-js](https://github.com/SHIVA-KUMAR-D/calculator-html-css-js)
 A basic calculator built with HTML, CSS, and JavaScript. Supports all core arithmetic operations.
 
-### 🔹 [Game](https://github.com/SHIVA-KUMAR-D/Game)
+### 🔹 [R_P_S_Game](https://github.com/SHIVA-KUMAR-D/R_P_S_Game)
 A game project using CSS animations and simple mechanics.
 
-### 🔹 [localrepo](https://github.com/SHIVA-KUMAR-D/localrepo)
+### 🔹 [Simple_Programs](https://github.com/SHIVA-KUMAR-D/Simple_Programs)
 A local project template or testing ground
 
 ---
