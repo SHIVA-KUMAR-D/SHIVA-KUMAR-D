@@ -20,6 +20,13 @@
 
 ## 📁 Featured Projects
 
+### 🔹 [Flask_Todo_App](https://github.com/SHIVA-KUMAR-D/Flask_Introduction/tree/master)
+This is a simple Flask-based Todo application where users can:
+
+✅ Create tasks
+🛠️ Update tasks
+❌ Delete tasks
+
 ### 🔹 [LeetCode_Daly_Problems](https://github.com/SHIVA-KUMAR-D/LeetCode_Daly_Problems)
 Daily coding problems from LeetCode with Python solutions.
 
