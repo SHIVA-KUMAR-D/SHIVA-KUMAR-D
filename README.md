@@ -20,6 +20,10 @@
 
 ## 📁 Featured Projects
 
+### 🔹 [Resume-Analyzer](https://github.com/SHIVA-KUMAR-D/Resume-Analyzer)
+An AI-powered Resume Analyzer and Job Matcher built with Streamlit. It extracts resume details, matches them with jobs, and sends results via email.
+
+
 ### 🔹 [Flask_Todo_App](https://github.com/SHIVA-KUMAR-D/Flask_Introduction/tree/master)
 This is a simple Flask-based Todo application where users can:
 
