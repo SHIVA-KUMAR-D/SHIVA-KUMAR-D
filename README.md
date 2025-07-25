@@ -42,6 +42,9 @@ A basic calculator built with HTML, CSS, and JavaScript. Supports all core arith
 ### 🔹 [R_P_S_Game](https://github.com/SHIVA-KUMAR-D/R_P_S_Game)
 A game project using CSS animations and simple mechanics.
 
+### 🔹 [javaScript_Practice](https://github.com/SHIVA-KUMAR-D/JAVASCRIPT)
+Currently practicing and strengthening my JavaScript skills through hands-on coding exercises and mini projects.
+
 ### 🔹 [Simple_Programs](https://github.com/SHIVA-KUMAR-D/Simple_Programs)
 A local project template or testing ground
 
