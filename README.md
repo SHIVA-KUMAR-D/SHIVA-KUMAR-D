@@ -1,59 +1,175 @@
-# 👋 Hi, I'm SHIVA-KUMAR-D
+<h1 align="center">Hi 👋, I'm Shiva Kumar D</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Python Developer | CSE Student</h3>
 
-- 🔍 I'm interested in *Machine Learning, **Web Development, and **Open Source*
-- 🧠 I'm currently learning *Python, **React, and **ML algorithms*
-- 💡 I love building *cool ML projects, **web apps, and **automation tools*
-- 📬 Reach me at: [shivayadav0539@gmail.com](mailto:shivayadav0539@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shiva-kumar-durgam-0a89762b5/) 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can debug code faster than I find my TV remote 😄
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIVA-KUMAR-D&theme=tokyonight)](https://git.io/streak-stats)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHIVA-KUMAR-D&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA-KUMAR-D&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiva-kumar-durgam-0a89762b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shivayadav0539@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 📁 Featured Projects
+## 🚀 About Me
 
-### 🔹 [Resume-Analyzer](https://github.com/SHIVA-KUMAR-D/Resume-Analyzer)
-An AI-powered Resume Analyzer and Job Matcher built with Streamlit. It extracts resume details, matches them with jobs, and sends results via email.
-
-
-### 🔹 [Flask_Todo_App](https://github.com/SHIVA-KUMAR-D/Flask_Introduction/tree/master)
-This is a simple Flask-based Todo application where users can:
-
-✅ Create tasks
-🛠️ Update tasks
-❌ Delete tasks
-
-### 🔹 [LeetCode_Daly_Problems](https://github.com/SHIVA-KUMAR-D/LeetCode_Daily_Problems)
-Daily coding problems from LeetCode with Python solutions.
-
-### 🔹 [QUIZGAME-USING-DJANGO](https://github.com/SHIVA-KUMAR-D/QUIZGAME-USING-DJANGO)
-A Django-based quiz game to test programming and CS knowledge with user login, scoring, and random questions.
-
-### 🔹 [CodeMania_2025_BackStreet-Boys](https://github.com/SHIVA-KUMAR-D/CodeMania_2025_BackStreet-Boys)
-An AI voice assistant using Google Gemini and Python. It can answer questions, fetch weather and movie info, and much more!
-
-### 🔹 [calculator-html-css-js](https://github.com/SHIVA-KUMAR-D/calculator-html-css-js)
-A basic calculator built with HTML, CSS, and JavaScript. Supports all core arithmetic operations.
-
-### 🔹 [R_P_S_Game](https://github.com/SHIVA-KUMAR-D/R_P_S_Game)
-A game project using CSS animations and simple mechanics.
-
-### 🔹 [javaScript_Practice](https://github.com/SHIVA-KUMAR-D/JAVASCRIPT)
-Currently practicing and strengthening my JavaScript skills through hands-on coding exercises and mini projects.
-
-### 🔹 [Simple_Programs](https://github.com/SHIVA-KUMAR-D/Simple_Programs)
-A local project template or testing ground
+- 🎓 B.Tech Computer Science Engineering Student  
+- 🤖 Interested in **Machine Learning, AI Systems, and Backend Development**
+- 🧠 Currently learning **Machine Learning, React, and System Design**
+- ⚙️ Building **AI-powered web applications**
+- 📚 Practicing **Data Structures & Algorithms**
 
 ---
 
-## 💬 Let's Collaborate!
+## 🛠️ Tech Stack
 
-I'm always open to working on exciting new projects. If you’re building something awesome or just want to connect, feel free to reach out!
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### 🤖 Machine Learning & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-purple?style=for-the-badge)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+### 🗄️ Tools & Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVA-KUMAR-D&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SHIVA-KUMAR-D&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVA-KUMAR-D&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI Resume Analyzer
+🔗 https://github.com/SHIVA-KUMAR-D/Resume-Analyzer  
+
+An AI-powered resume analysis system that extracts information from resumes, evaluates skills, and matches candidates with relevant job roles.  
+Built using Python, NLP techniques, and Streamlit with automated email result delivery.
+
+---
+
+## 📄 AI Document Question Answering System (RAG)
+🔗 https://github.com/SHIVA-KUMAR-D/rag-document-qa  
+
+A Retrieval-Augmented Generation (RAG) system that allows users to upload PDFs and ask questions about their content.  
+Uses FastAPI, FAISS vector search, HuggingFace models, and Streamlit for intelligent document-based AI answers.
+
+---
+
+## 🎮 Django Programming Quiz Platform
+🔗 https://github.com/SHIVA-KUMAR-D/QUIZGAME-USING-DJANGO  
+
+A full-stack quiz application where users can test programming knowledge through topic-based quizzes with login authentication and score tracking.  
+Developed using Django, HTML, CSS, and JavaScript.
+
+---
+
+## 🎤 AI Voice Assistant
+🔗 https://github.com/SHIVA-KUMAR-D/CodeMania_2025_BackStreet-Boys  
+
+A Python-based AI voice assistant powered by Google Gemini that responds to voice commands and provides information such as weather and movies.  
+Demonstrates integration of AI APIs with speech recognition.
+
+---
+
+## 💰 Smart Expense Tracker
+🔗 https://github.com/SHIVA-KUMAR-D/FinSight  
+
+A full-stack expense management web app that helps users track spending, store transactions, and visualize financial data.  
+Built with Flask, SQLite, and interactive dashboards.
+
+---
+
+## 📋 Flask Todo Application
+🔗 https://github.com/SHIVA-KUMAR-D/Flask_Introduction  
+
+A simple task management web application that allows users to create, update, and delete tasks using Flask and SQLite.
+
+---
+
+## 💻 LeetCode Daily Problems
+🔗 https://github.com/SHIVA-KUMAR-D/LeetCode_Daily_Problems  
+
+A collection of daily coding challenge solutions from LeetCode implemented in Python to improve algorithm and data structure skills.
+
+---
+
+## 🧮 Web Calculator
+🔗 https://github.com/SHIVA-KUMAR-D/calculator-html-css-js  
+
+A simple browser-based calculator supporting basic arithmetic operations built with HTML, CSS, and JavaScript.
+
+---
+
+## ✊✋✌ Rock Paper Scissors Game
+🔗 https://github.com/SHIVA-KUMAR-D/R_P_S_Game  
+
+A small interactive browser game using CSS animations and JavaScript logic to simulate the classic Rock–Paper–Scissors game.
+
+---
+
+## 📚 JavaScript Practice Repository
+🔗 https://github.com/SHIVA-KUMAR-D/JAVASCRIPT  
+
+A practice repository containing various JavaScript exercises and small programs created to strengthen core JavaScript concepts.
+
+---
+
+## 🧪 Simple Programs Collection
+🔗 https://github.com/SHIVA-KUMAR-D/Simple_Programs  
+
+A collection of beginner-level programming examples and small scripts used for experimentation and learning.
+---
+
+# 🌐 Connect With Me
+
+📧 Email  
+shivayadav0539@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/shiva-kumar-durgam-0a89762b5/
+
+---
+
+⭐ If you like my work, consider **starring my repositories**!
