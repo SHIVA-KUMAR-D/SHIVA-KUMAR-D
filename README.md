@@ -76,6 +76,13 @@
 
 # ⭐ Featured Projects
 
+## BreastCancerDetection-CNN-RNN
+🔗 https://github.com/SHIVA-KUMAR-D/BreastCancerDetection-CNN-RNN 
+
+A hybrid AI model that uses CNN and RNN to automatically analyze medical images and classify breast cancer as benign or malignant.
+
+---
+
 ## 🤖 AI Resume Analyzer
 🔗 https://github.com/SHIVA-KUMAR-D/Resume-Analyzer  
 
@@ -109,7 +116,7 @@ Demonstrates integration of AI APIs with speech recognition.
 ---
 
 ## 💰 Smart Expense Tracker
-🔗 https://github.com/SHIVA-KUMAR-D/FinSight  
+🔗 https://github.com/SHIVA-KUMAR-D/Expense_Tracker_and_-analytic_Dashboard  
 
 A full-stack expense management web app that helps users track spending, store transactions, and visualize financial data.  
 Built with Flask, SQLite, and interactive dashboards.
