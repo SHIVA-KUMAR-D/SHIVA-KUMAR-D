@@ -76,6 +76,13 @@
 
 # ⭐ Featured Projects
 
+## 🤚 Real-Time Hand Gesture Recognition
+🔗 https://github.com/SHIVA-KUMAR-D/real-time-hand-gesture-recognition  
+
+An AI-powered system that recognizes hand gestures in real time and enables touchless human-computer interaction using deep learning and computer vision techniques.
+
+---
+
 ## BreastCancerDetection-CNN-RNN
 🔗 https://github.com/SHIVA-KUMAR-D/BreastCancerDetection-CNN-RNN 
 
