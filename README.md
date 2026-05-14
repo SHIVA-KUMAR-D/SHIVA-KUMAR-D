@@ -99,7 +99,7 @@ Built using Python, NLP techniques, and Streamlit with automated email result de
 ---
 
 ## 📄 AI Document Question Answering System (RAG)
-🔗 https://github.com/SHIVA-KUMAR-D/rag-document-qa  
+🔗 https://github.com/SHIVA-KUMAR-D/RAG-Document-QA-System  
 
 A Retrieval-Augmented Generation (RAG) system that allows users to upload PDFs and ask questions about their content.  
 Uses FastAPI, FAISS vector search, HuggingFace models, and Streamlit for intelligent document-based AI answers.
