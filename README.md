@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/shiva-kumar-durgam-0a89762b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-<a href="mailto:shivayadav0539@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shivayadav0539@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </p>
 
